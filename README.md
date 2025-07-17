@@ -11,7 +11,9 @@ to set vim install those plugins and move then to your ~/.vim/plugged (move auto
 previews:
 <img width="1920" height="1080" alt="desktopPreview" src="https://github.com/user-attachments/assets/fe7a9bd5-685d-4a83-a321-49818ea88b16" />
 
-![DesktopPreviewGif](https://github.com/user-attachments/assets/83efa459-9d4e-4356-8f89-4df4c242f7b5)
+
+![2025-07-1714-42-40online-video-cutter com-ezgif com-optimize](https://github.com/user-attachments/assets/fd1d9105-96a6-4271-99ca-87d47064e8d3)
+
 
 Old config files look:
 ![ricingGif3](https://github.com/user-attachments/assets/659d8620-6e15-4a91-befe-363a8630b846)
