@@ -1,5 +1,7 @@
 # dotfiles
 
+<img width="1920" height="1080" alt="desktopPreview" src="https://github.com/user-attachments/assets/fe7a9bd5-685d-4a83-a321-49818ea88b16" />
+
 install those plugins and move then to your ~/.vim/plugged (move autoload to .vim)
 [vim-airline](https://github.com/vim-airline/vim-airline.git) 
 [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes.git)
