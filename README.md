@@ -2,7 +2,7 @@
 
 to have all running properly insure to download [picom next](https://github.com/pijulius/picom.git), polybar, flameshot and [ohmybash](https://ohmybash.nntoan.com/)
 
-install those plugins and move then to your ~/.vim/plugged (move autoload to .vim)
+to set vim install those plugins and move then to your ~/.vim/plugged (move autoload to .vim):
 [vim-airline](https://github.com/vim-airline/vim-airline.git) 
 [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes.git)
 [vim-comfortable-motion](comfortable-motion.vim)
