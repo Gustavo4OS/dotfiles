@@ -17,5 +17,4 @@ preview:
 Old config files look:
 ![ricingGif3](https://github.com/user-attachments/assets/659d8620-6e15-4a91-befe-363a8630b846)
 
-If you want to use the above polybar config, use polybar.old instead of polybar files
-To get the arrows in the terminal, change OSH_THEME to agnoster 
+If you want to use the above polybar config, use polybar.old instead of polybar files. To get the arrows in terminal, change OSH_THEME to agnoster in .bashrc 
